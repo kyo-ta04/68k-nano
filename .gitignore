@@ -6,9 +6,9 @@
 fp-info-cache
 *-cache.lib
 gerbers/
-*.hex
-*.lst
-*.bin
-*.srec
+# *.hex
+# *.lst
+# *.bin
+# *.srec
 *backups/
 
