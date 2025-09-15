@@ -4,9 +4,14 @@ A minimal single-board computer based on the venerable ["Texas Cockroach"](https
 Motorola 68000 16/32-bit microprocessor.
 
 ![Board image](./images/board.jpg)
+
+## Schematic, PCB
 Schematic : [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkyo-ta04%2F68k-nano%2Fblob%2FDevelop%2F68000sbc.kicad_sch) , [PDF](./68000sbc_sch.pdf)  
 PCB : [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkyo-ta04%2F68k-nano%2Fblob%2FDevelop%2F68000sbc.kicad_pcb) , 
-[Gerber files](./production/)
+[Gerber files](./production/)  
+
+** I added the schematic and PCB using KiCad 9.0.4  -  kyo-ta04(@DragonballEZ) 15-Sep-2025  
+
 
 ## Features
 
